@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://23andmeguide.readthedocs.io/en/latest/
