@@ -25,4 +25,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://spypointhelpcenter.readthedocs.io/en/latest/'
+html_baseurl = 'https://23andmeguide.readthedocs.io/en/latest/'
